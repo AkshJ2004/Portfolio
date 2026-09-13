@@ -7,7 +7,7 @@ export function initialFX() {
   smoother.paused(false);
   document.getElementsByTagName("main")[0].classList.add("main-active");
   gsap.to("body", {
-    backgroundColor: "#0b080c",
+    backgroundColor: "#070b08",
     duration: 0.5,
     delay: 1,
   });
@@ -76,13 +76,16 @@ export function initialFX() {
   var landingText4 = new SplitText(".landing-h2-1", TextProps);
   var landingText5 = new SplitText(".landing-h2-2", TextProps);
 
+  gsap.set(".landing-h2-info-1", { opacity: 1 });
+  gsap.set(".landing-h2-2", { opacity: 1 });
+
   LoopText(landingText2, landingText3);
   LoopText(landingText4, landingText5);
 }
 
 function LoopText(Text1: SplitText, Text2: SplitText) {
   var tl = gsap.timeline({ repeat: -1, repeatDelay: 1 });
-  const delay = 4;
+  const delay = 2;
   const delay2 = delay * 2 + 1;
 
   tl.fromTo(

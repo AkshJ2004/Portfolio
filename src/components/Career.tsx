@@ -15,43 +15,37 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Full Stack Developer Intern</h4>
+                <h5>PaySecure</h5>
               </div>
-              <h3>20XX</h3>
+              <h3></h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Increased backend test coverage to 66% using Jest. Refactored Node.js and Express REST APIs to reduce average response times by 10%. Developed responsive React dashboards and collaborated in Agile sprint planning.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>B.Tech in Computer Science</h4>
+                <h5>Vellore Institute of Technology</h5>
               </div>
-              <h3>20XX</h3>
+              <h3></h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+             Strong foundation in Data Structures & Algorithms, Object-Oriented Programming and Database Management Systems.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Certifications & Achievements</h4>
+                <h5>Various</h5>
               </div>
-              <h3>NOW</h3>
+              <h3></h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              MongoDB Certified Associate Developer (2025). Adobe India Hackathon Semi-Finalist. National Mathematics Talent Contest Winner. Solved 164+ DSA problems on LeetCode.
             </p>
           </div>
         </div>
