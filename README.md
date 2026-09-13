@@ -10,6 +10,7 @@ Feel free to explore the code and use it for learning and inspiration.
 This project is shared for learning purposes only.
 
 Please do NOT:
+
 - Clone or replicate the full website or design
 - Repost it with minor content changes
 - Use this project for commercial/client work
@@ -18,8 +19,6 @@ Please do NOT:
 If you use parts of the code, you must provide proper credit linking back to the original repository.
 
 Build your own version — don’t just copy.
-
-
 
 ---
 
@@ -53,8 +52,6 @@ Any usage, extraction, or redistribution of that avatar from my live website is 
 
 ---
 
-
-
 ---
 
 ## 📄 License
@@ -62,4 +59,3 @@ Any usage, extraction, or redistribution of that avatar from my live website is 
 This project is licensed under the Personal Portfolio License (PPL) v1.0.
 
 See the LICENSE file for full details
-
